@@ -42,4 +42,4 @@ public class TestResult {
 
 ## Результат виводу в консоль
 
-![alt text](https://github.com/ppc-ntu-khpi/java-2-AlexRubanUa/blob/master/.gradle/error.png "Logo Title Text 1")
+![alt text](https://github.com/ppc-ntu-khpi/java-3-AlexRubanUa/blob/master/imageResult "Logo Title Text 1")
